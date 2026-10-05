@@ -1,0 +1,211 @@
+    1  touch new.txt
+    2  sudo mkdir /home/animals
+    3  mkdir /home/animals
+    4  pwd
+    5  </> Bash
+    6  mkdir /home/animals
+    7  mkdir animals
+    8  pwd
+    9  mkdir animals
+   10  ls animals
+   11  ls
+   12  mkdir animals/dogs
+   13  ls
+   14  ls animals
+   15  mkdir animals/cats
+   16  mkmkmk
+   17  mkdir animals/ fish
+   18  mkdir animals/fish
+   19  touch fish
+   20  touch pluto
+   21  touch gaefield
+   22  touch garfield
+   23  touch nemo
+   24  rm gaefield
+   25  rm fish
+   26  mv pluto dogs
+   27  mv garfield cats
+   28  mv nemo fish
+   29  ls animals
+   30  ls cats
+   31  ls
+   32  ls fish
+   33  ls cats
+   34  ls cats/cats
+   35  ls dogs
+   36  touch garfield
+   37  mv garfield cats
+   38  ls cats
+   39  ls -1
+   40  rm cats
+   41  ls -1
+   42  rm dogs
+   43  rm new.txt
+   44  ls -1
+   45  mkdir animals/cats/
+   46  ls -1
+   47  mkdir cats
+   48  ls -1
+   49  ls -1
+   50  mkdir dogs
+   51  l1 -1
+   52  ls -1
+   53  mv cats fish dogs animals/
+   54  kls -1
+   55  ls -1
+   56  ls animals
+   57  touch cats/garfield
+   58  ls cats
+   59  ls cats/
+   60  touch garfield
+   61  mv garfield cats/
+   62  ls cats
+   63  ls animals
+   64  mv garfield cats/
+   65  mv garfield cats
+   66  ls cats
+   67  ls animals
+   68  ls
+   69  touch garfield
+   70  ls
+   71  mv garfield cats/
+   72  ls animals
+   73  mv garfield cats/
+   74  mv garfield /cats
+   75  mv garfield animals/cats/
+   76  ls
+   77  ls animals
+   78  ls animals/cats/
+   79  touch pluto
+   80  mv pluto animals/dogs
+   81  ls animals
+   82  ls dogs/
+   83  ls animals/dogs/
+   84  mv nemo animals/fish/
+   85  touch nemo
+   86  mv nemo animals/fish/
+   87  ls /fish
+   88  ls animals/fish/
+   89  touch /tmp/adam
+   90  ls tmp
+   91  ls /tmp
+   92  ls
+   93  touch tmp/adam
+   94  touch /tmp/adam
+   95  mkdir /home/humans
+   96  mkdir -p /home/humans
+   97  mkdir /home
+   98  touch /tmp/adam
+   99  ls
+  100  ls /tmp
+  101  cp -r adam /home/humans
+  102  cp /tmp/adam /home/humans
+  103  mkdir /home/humans
+  104  mkdir /humans
+  105  ls
+  106  mkdir -p /home/humans
+  107  mkdir /home
+  108  /mkdir /home/humans
+  109  mkdir /home
+  110  mkdir -p /home
+  111  mkdir /humans
+  112  mkdir /home/humans
+  113  mkdir -p /home/humans
+  114  pwd
+  115  mkdir humans
+  116  ;ls
+  117  ls
+  118  cp adam /humans
+  119  ls adam
+  120  touch adam
+  121  cp adam /humans
+  122  ls humans]
+  123  ls humans
+  124  ls
+  125  ls -1
+  126  ls /animals
+  127  ls animals/
+  128  ls humans/
+  129  cp adam human/
+  130  cp adam humans/
+  131  ls humans
+  132  touch eve /tmp
+  133  ls tmp
+  134  ls /tmp
+  135  rm eve
+  136  touch eva/tmp
+  137  touch eva /tmp
+  138  mv eva /opt/eve
+  139  mv /tmp/eva /opt/eve
+  140  ls opt
+  141  ls /opt
+  142  mkdir opt/
+  143  ls opt/
+  144  ls /opt
+  145  ls
+  146  mv eva /opt/eve
+  147  mv eva eve
+  148  ls
+  149  mv eve /humans
+  150  mv eve /humans/
+  151  mv eve humans/
+  152  ls humans/
+  153  history > /tmp/history.txt && export_file /tmp/history.txt
+  154  /tmp/history.txt && export_file /tmp/history.txt
+  155  ls animals/
+  156  ls  cats/
+  157  ls animals/cats/
+  158  /tmp/history.txt
+  159  history > /tmp/history.txt
+  160  history . /tmp/history.txt && export_file /tmp/history.txt
+  161  history > /tmp/history.txt && export_file /tmp/history.txt
+  162  ls /tmp/history.txt
+  163  realpath /tmp/history.txt
+  164  explorer.exe /tmp
+  165  find / -name history.txt 2>/dev/null
+  166  history > /tmp/history.txt && export_file /tmp/history.txt
+  167  history > /tmp/history.txt
+  168  [200~cp /tmp/history.txt ~/Desktop/
+  169  cp /tmp/history.txt ~/Desktop/
+  170  ls animals/dogs
+  171  ls animals/cats
+  172  ls animals/fish
+  173  ls humans
+  174  history > /tmp/history.txt
+  175  export_file /tmp/history.txt
+  176  export_file /tmp/history.txt
+  177  ls animals/dogs
+  178  ls animals/cats
+  179  ls animals/fish
+  180  ls humans
+  181  history > /tmp/history.txt
+  182  cp /tmp/history.txt ~/Desktop/
+  183  dfyugiutgu
+  184  ssh -T git@github.com~
+  185  ssh -T git@github.com
+  186  cd ~/Documents
+  187  mkdir git-branch
+  188  cd git-branch
+  189  git init
+  190  git checkout -b gitignore
+  191  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  192  ls -a
+  193  git status
+  194  git add .gitignore
+  195  git commit -m "Add .gitignore"
+  196  git remote add origin git@github.com:WadimCodes/git-branch.git
+  197  git push -u origin gitignore
+  198  git clone git@github.com:WadimCodes/git-exercise.git
+  199  cd git-exercise
+  200  git checkout -b feature
+  201  echo "changes in feature-branch" >> README.md
+  202  echo "*.log" >> .gitignore
+  203  git status
+  204  git add README.md .gitignore
+  205  git commit -m "changes in README and gitignore"
+  206  git push -u origin feature
+  207  git commit --amend -m "changes in README and gitignore ammend"
+  208  git push --force origin feature
+  209  git checkout main
+  210  git merge feature
+  211  history > history.txt
